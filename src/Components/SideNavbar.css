@@ -1,0 +1,33 @@
+.SideNavbar{
+    background-color: #111b21;
+    width: 25vw;
+    height: 94vh;
+    overflow: hidden;
+}
+
+.SideNav-header{
+    background-color: #202c33;
+    height: 49px;
+    border-right: 2px solid gray;
+    display: flex;
+    align-items: center;
+}
+
+.SideNav-chat{
+    color: white;
+    border-bottom: 1px solid #4e4b4b;
+    height: 68px;
+}
+
+.SideNav-chatroom{
+    display: flex;
+    color: white;
+    margin: 2px;
+    align-items: center;
+}
+
+.room-name{
+    margin: 16px 13px;
+    font-size: 18px;
+}
+
